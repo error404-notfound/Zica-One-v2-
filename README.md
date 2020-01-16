@@ -1,5 +1,5 @@
 # Zica-One-v2-
-<h6>Tool de Zicarum para Error404.</h6>
+<h6>Codigo de Zicarum para Error404Comunidad.</h6>
 <hr>
 <img src="https://github.com/error404-notfound/Zica-One-v2-/blob/master/foto.jpg">
 <hr>
